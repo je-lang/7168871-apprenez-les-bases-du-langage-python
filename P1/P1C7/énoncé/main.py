@@ -6,3 +6,4 @@ fruits["pomme"] = "vert"
 fruits.pop("banane")
 print(fruits)
 print(f"Couleur de la banane : {couleur_banane}")
+print(f"Nombre de fruits : {len(fruits)}")
